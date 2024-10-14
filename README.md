@@ -1,2 +1,3 @@
 # asteroids
-asteroid game
+This is my asteroid game
+
